@@ -24,7 +24,7 @@
     <pre>
 Enter the number of players(2-4): 3
 The number of players is: 3
-      
+        
 Player 1, Your turn.
       Would you like to roll the dice? (y or n): y
         You rolled a 5
