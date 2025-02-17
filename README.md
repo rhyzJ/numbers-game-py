@@ -12,9 +12,6 @@
     
    <h2>Installation</h2>
     <p>Ensure you have Python installed on your system, then run the script:</p>
-    <pre>
-        python data_types.py
-    </pre>
     
   <h2>Code Overview</h2>
     <ul>
